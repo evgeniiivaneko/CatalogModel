@@ -54,6 +54,7 @@
     <Compile Include="DataAccess\AccessRightsRepository.cs" />
     <Compile Include="DataAccess\BrandRepository.cs" />
     <Compile Include="DataAccess\ConditionerRepository.cs" />
+    <Compile Include="DataAccess\DeliveryRepository.cs" />
     <Compile Include="DataAccess\ImageRepository.cs" />
     <Compile Include="DataAccess\Interface\IRepository.cs" />
     <Compile Include="DataAccess\OrderRepository.cs" />
