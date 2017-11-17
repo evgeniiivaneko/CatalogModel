@@ -51,6 +51,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccess\AccessRightsRepository.cs" />
+    <Compile Include="DataAccess\BrandRepository.cs" />
+    <Compile Include="DataAccess\ConditionerRepository.cs" />
+    <Compile Include="DataAccess\ImageRepository.cs" />
+    <Compile Include="DataAccess\Interface\IRepository.cs" />
+    <Compile Include="DataAccess\OrderRepository.cs" />
+    <Compile Include="DataAccess\ProductRepository.cs" />
+    <Compile Include="DataAccess\ReviewRepository.cs" />
+    <Compile Include="DataAccess\TypeRepository.cs" />
+    <Compile Include="DataAccess\UserRepository.cs" />
     <Compile Include="Model\AccessRights.cs" />
     <Compile Include="Model\Brand.cs" />
     <Compile Include="Model\Catalog.cs" />
